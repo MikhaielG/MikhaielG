@@ -36,7 +36,7 @@
 
 <br/>
 
-<img align="left" alt="Mikhaiel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaielG&theme=radical&count_private=true" />
+<img align="right" alt="Mikhaiel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaielG&theme=radical&count_private=true" />
 
 
 [linkedin]: https://www.linkedin.com/in/mikhaielgomes/
