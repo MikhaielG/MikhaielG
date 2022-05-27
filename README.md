@@ -28,8 +28,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[img src="https://embed.github.com/view/3d/MikhaieG/skyline/master/MikhaielG-2020.stl"](i%E2%80%B8src=%22https://embed.github.com/view/3d/MikhaieG/skyline/master/MikhaielG-2020.stl%22)/>
+
+
+<iframe height='420' width='620' frameborder='0' src='https://viewscreen.githubusercontent.com/view/solid?url=https%3a%2f%2fraw.githubusercontent.com%2fMikhaieG%2fskyline%2fmaster%2fMikhaielG-2020.stl' title='MikhaielG-2020.stl'></iframe>
 
 <img align="left" alt="Mikhaiel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhaielG&show_icons=true&theme=radical&count_private=true" />
-
-[linkedin]: https://www.linkedin.com/in/mikhaielgomes/
