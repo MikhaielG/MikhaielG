@@ -30,6 +30,6 @@
 
 
 
-<iframe height='420' width='620' frameborder='0' src='https://viewscreen.githubusercontent.com/view/solid?url=https%3a%2f%2fraw.githubusercontent.com%2fMikhaieG%2fskyline%2fmaster%2fMikhaielG-2020.stl' title='MikhaielG-2020.stl'></iframe>
+<iframe height='420' width='620' frameborder='0' src='https://skyline.github.com/MikhaielG/2022' title='MikhaielG-2020.stl'></iframe>
 
 <img align="left" alt="Mikhaiel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MikhaielG&show_icons=true&theme=radical&count_private=true" />
