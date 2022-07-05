@@ -9,7 +9,7 @@
 ## Connect with me!
 
 
-[<img align="left" alt="MikhaielG LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
+[<img target="_blank" align="left" alt="MikhaielG LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 
